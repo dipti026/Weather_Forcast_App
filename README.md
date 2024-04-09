@@ -1,1 +1,4 @@
 # Weather_Forcast_App
+This web application is build to check out the weather forecast for the current day and for the next few days. You will use an API to fetch real-time data and then add it to your application. The user will input his/her location and the weather forecast for the next 5 days will be displayed. In addition, a feature to automatically detect the location can add to the versatility of the project.
+
+# Skills used– JavaScript, Node.js, ReactJS.
